@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm Pavan!
 
 I'm a passionate developer with a focus on [your primary tech stacks, e.g., Python, C++, Computer Vision, etc.]. I love building projects, contributing to open-source, and continuously learning new things.
 
