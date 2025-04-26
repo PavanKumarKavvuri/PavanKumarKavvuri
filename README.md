@@ -83,7 +83,7 @@ I'm a passionate engineer with a focus on [your primary tech stacks, e.g., Pytho
 - **Simultaneous Localization and Mapping (SLAM)**
 - **DevOps tooling**
 
-### Books I Read
+### Books I Read the most
 
 - Robotics and Automation for Improving [Agriculture](https://www.taylorfrancis.com/books/edit/10.1201/9780429266737/robotics-automation-improving-agriculture-john-billingsley)
 
