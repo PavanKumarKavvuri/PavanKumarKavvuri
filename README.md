@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Robotics Software Test & Integration Engineer**
+- 🔭 I’m currently working as a **Robotics Perception & Integration Engineer**
 - 🎯 Actively working toward transitioning into a **Robotics Perception Engineer**
 - 🎓 Learning advanced topics like **Visual Odometry**, **SLAM**, and **Neuromorphic Computing**
 - 🌱 Currently implementing algorithms from the **"Vision Algorithms for Mobile Robotics"** course
@@ -44,7 +44,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/YourUsername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://www.mathtomotion.com/)
 
 ---
 
