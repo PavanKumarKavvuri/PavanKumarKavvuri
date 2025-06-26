@@ -1,23 +1,23 @@
 <h1 align="center">Hi there, I'm Pavan 👋</h1>
 
 <p align="center">
-  🚀 Robotics | 🧠 AI | ⚙️ Embedded Systems
+   Robotics |  AI |  Embedded Systems
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently working as a **Robotics Perception & Integration Engineer**
-- 🎯 Actively working toward transitioning into a **Robotics Perception Engineer**
-- 🎓 Learning advanced topics like **Visual Odometry**, **SLAM**, and **Neuromorphic Computing**
-- 🌱 Currently implementing algorithms from the **"Vision Algorithms for Mobile Robotics"** course
-- 🔍 Passionate about real-time perception systems for autonomous robots
-- 🛠️ Tools I use: `C++`, `Python`, `ROS`, `OpenCV`, `PCL`, `Docker`, `Linux`
+- I’m currently working as a **Robotics Perception & Integration Engineer**
+- Actively working toward transitioning into a **Robotics Perception Engineer**
+- Learning advanced topics like **Visual Odometry**, **SLAM**, and **Neuromorphic Computing**
+- Currently implementing algorithms from the **"Vision Algorithms for Mobile Robotics"** course
+- Passionate about real-time perception systems for autonomous robots
+- Tools I use: `C++`, `Python`, `ROS`, `OpenCV`, `PCL`, `Docker`, `Linux`
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <!-- Icons from https://simpleicons.org/ -->
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=github_dark&hide_border=true" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/YourUsername)
