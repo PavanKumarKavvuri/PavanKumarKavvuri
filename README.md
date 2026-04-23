@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pavan 👋</h1>
+<h1 align="center">Hi there, I'm Pavan</h1>
 <p align="center">
    Robotics Software Engineer · SLAM Validation & Sensor Fusion · ROS 2 · C++
 </p>
@@ -33,6 +33,7 @@
 |--------|-------------|-------|
 | [Multi-Sensor Fusion Platform](https://github.com/PavanKumarKavvuri/ros2-multi-sensor-fusion-platform) | Mobile robot platform integrating LiDAR, IMU, depth camera and wheel odometry for sensor fusion and pose estimation | ROS 2, C++, Python |
 | [Graph-Based SLAM](https://github.com/PavanKumarKavvuri) | Lightweight SLAM framework with loop closure, Gauss-Newton optimisation, and A*/Dijkstra path planning | C++, Eigen |
+| [Neuromorphic Audio Classification](https://github.com/PavanKumarKavvuri) | Resource-constrained RNN-based spoken digit recogniser optimised for low-power neuromorphic hardware — 97.5% model size reduction | Python, Quantization |
 | [Fruit Detection & Ripeness Analysis](https://github.com/PavanKumarKavvuri) | Real-time fruit detection and ripeness classification for agricultural robotics | Python, PyTorch, YOLOv4 |
 
 ---
